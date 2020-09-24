@@ -2,4 +2,4 @@
 
 Console Aplication of Body Fat Calculator
 
-Compile with #csc for .exe
+Compile with csc for .exe
